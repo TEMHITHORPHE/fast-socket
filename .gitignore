@@ -1,0 +1,4 @@
+.vscode/settings.json
+CSV_Folder_response/**/*
+ResponseLog/**/*
+fast_socket/__pycache__/**/*
